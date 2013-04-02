@@ -38,10 +38,10 @@ public class cUserAnalyst {
 		
 		System.out.println();
 		System.out.println("Select 1 to view data display options");
-		System.out.println("Select 2 to view data minimums display options");
-		System.out.println("Select 3 to view data maximums display options");
-		System.out.println("Select 4 to view data means display options");
-		System.out.println("Select 5 to view data standard deviations display options");
+		System.out.println("Select 2 to find minimums");
+		System.out.println("Select 3 to find maximums");
+		System.out.println("Select 4 to calculate means");
+		System.out.println("Select 5 to calculate standard deviations");
 		System.out.println("Select 6 to exit");
 		
 		BufferedReader br= new BufferedReader(new InputStreamReader(System.in));
